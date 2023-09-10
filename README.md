@@ -3,7 +3,7 @@ HHA507 / Data Science / Assignment 2 / Data Manipulation
 
 # This repo contains: 
 - A folder called **'datasets'** containing the .csv file used in the assignment.
-- **README.md**: Provides and overview of the assignment.
+- **README.md**: Provides an overview of the assignment.
 - **hha507assignment2.ipynb**: containing my responses for the submission.
 
 # This repo aims to:  
